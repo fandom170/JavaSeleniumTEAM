@@ -22,7 +22,6 @@ import java.util.List;
 import static com.codeborne.selenide.Selenide.title;
 
 public class GismeteoTest extends TestBase {
-    WebDriver driver;
 
     @Test
             (testName = "Get Title", priority = 1)
